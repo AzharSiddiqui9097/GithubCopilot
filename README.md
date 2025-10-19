@@ -1,1 +1,1 @@
-# GithubCopilot
+* GitHub Actions is a continuous integration and continuous delivery (CI/CD) platform that lets you automate your build, test, and deployment pipeline. IntelliJ IDEA recognizes GitHub YAML files and provides coding assistance for them
